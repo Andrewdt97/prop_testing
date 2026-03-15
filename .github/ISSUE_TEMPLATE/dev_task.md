@@ -1,7 +1,7 @@
 ---
 name: "Dev Task"
 description: "Dev task template"
-about: "test"
+about: "Used for work items that aren't directly tied to a defect."
 title: "[Task] "
 labels: []
 assignees: []

@@ -1,6 +1,7 @@
 ---
 name: "Ops Issue"
 description: "Ops Issue template"
+about: "Used when reporting issues encountered from ops"
 title: "[Ops] "
 labels: []
 assignees: []

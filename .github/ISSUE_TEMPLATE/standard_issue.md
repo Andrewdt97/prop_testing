@@ -1,6 +1,7 @@
 ---
 name: "Issue/Bug"
 description: "Standard issue template"
+about: "Used for standard defect reporting"
 title: "[Issue] "
 labels: []
 assignees: []
